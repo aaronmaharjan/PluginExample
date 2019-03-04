@@ -1,0 +1,2 @@
+# PluginExample
+SimplePluginExample
